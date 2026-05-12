@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <Kullanici>
+        <Ad>Ömer Nuri</Ad>
+        <Id>123</Id>
+        <Yer>Nilüfer</Yer>
+    </Kullanici>
+    <Kullanici>
+        <Ad>Enes</Ad>
+        <Id>124</Id>
+        <Yer>Osmangazi;Bursa</Yer>
+    </Kullanici>
+</data>
