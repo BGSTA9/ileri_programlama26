@@ -1,0 +1,16 @@
+{
+    "data": {
+        "Kullanici": [
+            {
+                "ad": "Ömer Nuri",
+                "id": 123,
+                "yer": "Nilüfer"
+            },
+            {
+                "ad": "Enes",
+                "id": 124,
+                "yer": "Osmangazi;Bursa"
+            }
+        ]
+    }
+}

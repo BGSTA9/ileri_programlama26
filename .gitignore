@@ -1,0 +1,4 @@
+.venv/
+hafta10/
+
+**/*.env
