@@ -1,0 +1,115 @@
+ÖĞRENCİ KAYIT BİLGİLERİ - 2024
+
+---KAYIT 1---
+Adı Soyadı: Ahmet Yılmaz
+Öğrenci Numarası: 2021001547
+Telefon: +90 555 123 4567
+E-mail: ahmet.yilmaz@ogrenci.edu.tr
+Adres: Ankara Caddesi No:45 Kat:3 Daire:12, Çankırı, 19000
+Doğum Tarihi: 15.03.2003
+Bölüm: İleri Programlama
+
+---KAYIT 2---
+Adı Soyadı: Fatma Kara
+Öğrenci Numarası: 2021002893
+Telefon: +90 532 987 6543
+E-mail: fatma.kara@ogrenci.edu.tr
+Adres: Atatürk Bulvarı No:156 Kat:5 Daire:8, İstanbul, 34210
+Doğum Tarihi: 22.07.2002
+Bölüm: İleri Programlama
+
+---KAYIT 3---
+Adı Soyadı: Mehmet Demir
+Öğrenci Numarası: 2021003215
+Telefon: +90 541 234 5678
+E-mail: mehmet.demir@ogrenci.edu.tr
+Adres: Sakarya Caddesi No:78 Kat:2 Daire:4, Sakarya, 54100
+Doğum Tarihi: 10.11.2003
+Bölüm: İleri Programlama
+
+---KAYIT 4---
+Adı Soyadı: Zeynep Akın
+Öğrenci Numarası: 2021004562
+Telefon: +90 506 345 6789
+E-mail: zeynepakin@ogrenci.edu.tr
+Adres: Gazi Mustafa Kemal Caddesi No:234 Kat:7 Daire:15, İzmir, 35000
+Doğum Tarihi: 05.05.2002
+Bölüm: İleri Programlama
+
+---KAYIT 5---
+Adı Soyadı: Can Cam Özer
+Öğrenci Numarası: 2021005198
+Telefon: +90 555 456 7890
+E-mail: can.ozer@ogrenci.edu.tr
+Adres: Cumhuriyet Mahallesi, Kemal Atatürk Sokağı No:89, Konya, 42000
+Doğum Tarihi: 18.09.2003
+Bölüm: İleri Programlama
+
+---KAYIT 6---
+Adı Soyadı: Ayşe Turhan
+Öğrenci Numarası: 2021006743
+Telefon: +90 531 567 8901
+E-mail: ayse.turhan@ogrenci.edu.tr
+Adres: Barbaros Mahallesi, Türkiye Caddesi No:112 Kat:4 Daire:21, Ankara, 06500
+Doğum Tarihi: 30.12.2002
+Bölüm: İleri Programlama
+
+---KAYIT 7---
+Adı Soyadı: İbrahim Çelik
+Öğrenci Numarası: 2021007856
+Telefon: 90 543678 9012
+E-mail: ibrahim.celik@ogrenci.edu.tr
+Adres: Alsancak Mahallesi, Asansör Sokağı No:45 Kat:6 Daire:18, İzmir, 35220
+Doğum Tarihi: 25.02.2003
+Bölüm: İleri Programlama
+
+---KAYIT 8---
+Adı Soyadı: Seda Yıldız
+Öğrenci Numarası: 2021008924
+Telefon: 0 505  789 0123
+E-mail: seda.yildiz@ogrenci.edu.tr
+Adres: Bayraklı Mahallesi, Mithatpaşa Caddesi No:256 Kat:9 Daire:3, İzmir, 35430
+Doğum Tarihi: 14.06.2002
+Bölüm: İleri Programlama
+
+---KAYIT 9---
+Adı Soyadı: Kadir Şahin
+Öğrenci Numarası: 2021009367
+Telefon: +90 552 890 1234
+E-mail: kadir.sahin@ogrenci.edu.tr
+Adres: Kazım Karabekir Mahallesi, İnönü Caddesi No:301 Kat:1 Daire:7, Ankara, 06100
+Doğum Tarihi: 08.08.2003
+Bölüm: İleri Programlama
+
+---KAYIT 10---
+Adı Soyadı: Elif Kaya
+Öğrenci Numarası: 2021010521
+Telefon: +90 533 901 2345
+E-mail: elif.kaya@ogrenci.edu.tr
+Adres: Alsancak Mahallesi, Kültür Caddesi No:67 Kat:2 Daire:14, İzmir, 35210
+Doğum Tarihi: 20.04.2002
+Bölüm: İleri Programlama
+
+---KAYIT 11---
+Adı Soyadı: Onur Çinar
+Öğrenci Numarası: 2021011639
+Telefon: +90 544 012 3456
+E-mail: onur.cinar@ogrenci.edu.tr
+Adres: Çoğruk Mahallesi, Ege Caddesi No:89 Kat:3 Daire:11, İzmir, 35000
+Doğum Tarihi: 12.10.2003
+Bölüm: İleri Programlama
+
+---KAYIT 12---
+Adı Soyadı: Gülşah Akyüz
+Öğrenci Numarası: 2021012847
+Telefon: +90 507 123 4567
+E-mail: gulsah.akyuz@ogrenci.edu.tr
+Adres: Gaziemir Mahallesi, Deniz Caddesi No:178 Kat:5 Daire:9, İzmir, 35310
+Doğum Tarihi: 03.01.2002
+Bölüm: İleri Programlama
+
+
+205,20,305
+205,21,305
+215,21,305
+205,22,305
